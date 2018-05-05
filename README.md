@@ -11,5 +11,4 @@
 ### İphone için indir
 [Müzik indirme programı](https://itunes.apple.com/us/app/sarki-modu/id1352609955?l=tr&ls=1&mt=8 "Müzik indirme programı")
 ### Şarkı modu Görseller
-![29138877_423503074761891_2062161176_n.jpg]({{site.baseurl}}/29138877_423503074761891_2062161176_n.jpg)
-![29340830_423501504762048_499088365_n.jpg]({{site.baseurl}}/29340830_423501504762048_499088365_n.jpg)
+
