@@ -7,6 +7,6 @@
 ## Ücretsiz şarkı indirme programı
 **Ücretsiz şarkı indirme programı** arıyorsunuz ancak bulamıyormusunuz? Şarkı modu uygulamasını denemenizi tavsiye ediyorum. Aşağıda telefonunuza göre indirme bağlantıları bulabilirsiniz.
 ### Android İçin İndir
-[Müzik indirme programı](https://phttps://www.eniyiuygulama.com/muzik-modu/ "Müzik indirme programı")
+[Müzik indirme programı](https://www.eniyiuygulama.com/muzik-modu/ "Müzik indirme programı")
 ### İphone için indir
 [Müzik indirme programı](https://www.eniyiuygulama.com/muzik-modu/ "Müzik indirme programı")
